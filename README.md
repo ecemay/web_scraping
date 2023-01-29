@@ -1,2 +1,2 @@
 # web_scraping
-From the website The PayScale , I got the table values using BeautifulSoup and create a Pandas dataframe
+From the website The PayScale , I got values on the table using BeautifulSoup and created a Pandas dataframe
